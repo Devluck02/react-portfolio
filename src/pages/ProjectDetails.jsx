@@ -7,7 +7,7 @@ const ProjectDetails = () => {
   return (
     
     <div className="container py-4">
-      <h2 className="mb-4">Project Details</h2>
+      <h2 className="mb-4">Project Details.</h2>
       <div className="d-md-flex justify-content-center align-items-start gap-3" key={id}>
         <div className="img-card w-25">
           <img src={project.projectLogo} alt={project.projectName} />
