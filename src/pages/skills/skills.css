@@ -1,0 +1,23 @@
+h4.dev-title {
+    font-size: 24px;
+    margin: 32px 0 10px;
+}
+.skill-card {
+    width: 24%;
+    height: auto;
+    border: 1px solid #2c2a2a;
+    text-align: center;
+    padding: 20px 0 10px;
+    background-color: #252525;
+    margin-top: 15px;
+    min-height: 172px;
+}
+.skill-card img {
+    width: 100px;
+    height: auto;
+}
+.skill-card h1 {
+    font-size: 15px;
+    font-weight: 300;
+    margin-top: 10px;
+}

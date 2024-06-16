@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+    color: #fff;
+}
+
+body{
+    background-color: #1b1b1b;
+}
+
+.container{
+    max-width: 1100px;
+    margin: auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-x-between{
+    justify-content: space-between;
+}
+
+.flex-y-center{
+    align-items: center;
+}
+
+ul{
+  list-style: none;
+}
+
+.text-center{
+    text-align: center;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+.btn {
+    background-color: #252525;
+    border: 1px solid #2c2a2a;
+    padding: 10px 15px;
+    margin-right: 15px;
+    cursor: pointer;
+    font-size: 15px;
+    border-radius: 4px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .1);
+    transition: .2s ease-in;
+}
+.page-view {
+    min-height: calc(100vh - 220px);
+}
+.logo a {
+    font-size: 30px;
+    font-weight: 500;
+}
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+.flex-y-baseline{
+  align-items: flex-start;
+}
+
+@media (max-width: 600px){
+    header {
+        margin-bottom: 20px;
+    }
+    footer {
+        
+        padding-bottom: 24px !important;
+       
+    }
+    .image-avtar {
+        display: none;
+    }
+    .flex {
+        display: block;
+    }
+    header .flex {
+        display: flex;
+    }
+    .intro,.about-me,.skills-wrapper,.project-box,.exp-box,.contact  {
+        width: 90%;
+        margin: auto;
+    }
+    .connectImg {
+        display: none;
+    }
+    .connect-link{
+        width: 100%;
+    }
+    .contactbox {
+        width: 100%;
+    }
+    .contactwrap {
+        margin-top: 20px;
+    }
+    .project-card {
+        width: 100%;
+        margin: 20px 0 10px;
+    }
+    .pro-content h1 {
+        font-size: 24px;
+        margin-top: 5px;
+    }
+    .exp-card:nth-child(odd):before,.exp-card:nth-child(even):before{
+        display: none;
+    }
+    .exp-card {
+        width: 100%;
+        margin-bottom: 20px;
+        padding: 20px;
+    }
+    .project-card img {
+        width: 80%;
+        
+    }
+    .intro h2 {
+        font-size: 42px;
+    }
+    .btn {
+        display: block;
+        width: 100%;
+        margin-top: 15px;
+    }
+    .intro h4 {
+        color: #34d584;
+        margin-bottom: 4px;
+    }
+    .infobox {
+        width: 100%;
+       
+    }
+   
+    .about-me .title p {
+        font-size: 15px;
+    }
+    .skill-card {
+        width: 48%;
+        min-height: 132px;
+    }
+    .skills-wrapper .flex {
+        display: flex;
+    }
+    .skill-card img {
+        width: 60px;
+    }
+    .exp-card h2, .exp-card h3 {
+        font-size: 18px;
+    }
+    
+}

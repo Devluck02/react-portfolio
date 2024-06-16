@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "projectName": "Freekaamaal",
+        "proDescription": "FreeKaaMaaI.com is India's leading cashback website, where you can earn up to 100% cashback on your online shopping.",
+        "projectImg": "/images/fkm.png",
+        "techStack": "JavaScript , Jquery , Bootstrap , CSS , HTML",
+        "projectLink": "https://freekaamaal.com/"
+    },
+    {
+        "id": 2,
+        "projectName": "Woost",
+        "proDescription": "Woost Internet Private Limited is a full-service digital marketing agency in India.",
+        "projectImg": "/images/woost.png",
+        "techStack": "JavaScript , Jquery , Bootstrap , CSS , HTML",
+        "projectLink": "https://woost.io/"
+    },
+    {
+        "id": 3,
+        "projectName": "Findanyanswer",
+        "proDescription": "A blog website with multiple categories.",
+        "projectImg": "/images/faa.png",
+        "techStack": "JavaScript , Jquery , Wordpress , Bootstrap",
+        "projectLink": "https://www.findanyanswer.net/"
+    },
+    {
+        "id": 4,
+        "projectName": "Articlepost",
+        "proDescription": "A blog website with multiple categories.",
+        "projectImg": "/images/articlepost.png",
+        "techStack": "JavaScript , Jquery , Wordpress , Bootstrap",
+        "projectLink": "https://articlepost.net/"
+    }
+]

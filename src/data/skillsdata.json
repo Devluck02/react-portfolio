@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "skill": "JavaScript",
+    "imgUrl": "/images/js.png"
+    
+  },
+  {
+    "id": 2,
+    "skill": "ReactJS",
+    "imgUrl": "/images/react.png"
+    
+  },
+  {
+    "id": 3,
+    "skill": "Jquery",
+    "imgUrl": "/images/jquery.png"
+    
+  },
+  {
+    "id": 4,
+    "skill": "Gulpjs",
+    "imgUrl": "/images/gulp.svg"
+    
+  },
+  {
+    "id": 5,
+    "skill": "Wordpress",
+    "imgUrl": "/images/wordpress.png"
+    
+  },
+  {
+    "id": 6,
+    "skill": "SASS",
+    "imgUrl": "/images/sass.png"
+    
+  },
+  {
+    "id": 7,
+    "skill": "Bootstrap",
+    "imgUrl": "/images/bootstrap.png"
+    
+  },
+  {
+    "id": 8,
+    "skill": "CSS",
+    "imgUrl": "/images/css.png"
+    
+  },
+  {
+    "id": 9,
+    "skill": "HTML",
+    "imgUrl": "/images/html.png"
+    
+  }
+  
+  
+]

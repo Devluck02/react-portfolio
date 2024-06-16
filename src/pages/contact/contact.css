@@ -1,0 +1,20 @@
+.contactwrap {
+    margin-top: 40px;
+}
+.contactbox {
+    width: 70%;
+}
+.connect-link {
+    background-color: #252525;
+    border-radius: 5px;
+    width: 49%;
+    border: 1px solid #666;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 15px;
+    padding: 35px 5px;
+}
+

@@ -1,0 +1,15 @@
+.about-me .title p {
+    line-height: 26px;
+}
+.personal-info {
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+.infobox {
+    width: 48%;
+    margin-top: 25px;
+}
+.infobox span {
+    color: #7c7c7c;
+    margin-right: 10px;
+}
