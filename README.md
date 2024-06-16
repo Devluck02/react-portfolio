@@ -1,1 +1,1 @@
-<!-- a simple portfolio app developed in React -->
+# a simple portfolio app developed in React 
